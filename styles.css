@@ -15,4 +15,4 @@ h1 { text-align: center; font-weight: 700; margin: 0 0 16px; }
 .types span { padding: 6px 10px; border-radius: 999px; background: #1a2440; border: 1px solid #22304a; font-size: 12px; letter-spacing: 0.6px; }
 .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .stat { display: flex; justify-content: space-between; background: #0b0f1a; border: 1px solid #22304a; border-radius: 10px; padding: 10px 12px; }
-.stat span:first-child { color: #a9b6cc; }
+.stat span:first-child { color: #a9b6cc; } 
